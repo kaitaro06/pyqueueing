@@ -8,7 +8,7 @@ tags:
   - Erlang
 authors:
   - name: Keitaro Kaida
-    orcid: 0000-0000-0000-0000
+    orcid: 0009-0004-0222-8145
     affiliation: 1
 affiliations:
   - name: Independent Researcher, Japan
