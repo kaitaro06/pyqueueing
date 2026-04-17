@@ -2,6 +2,7 @@
 
 A Python library for queueing theory — analytical models, capacity planning, and performance evaluation.
 
+[![PyPI version](https://img.shields.io/pypi/v/pyqueueing)](https://pypi.org/project/pyqueueing/)
 [![Python](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Tests](https://img.shields.io/badge/tests-125%20passed-brightgreen)]()
