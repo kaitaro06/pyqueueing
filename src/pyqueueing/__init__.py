@@ -17,7 +17,7 @@ from pyqueueing.models.erlang_b import ErlangB
 from pyqueueing.models.qbd import QBD
 from pyqueueing.planner import CallCenterPlanner
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 
 __all__ = [
     "MM1",
